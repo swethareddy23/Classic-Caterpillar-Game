@@ -1,1 +1,1 @@
-# Classic-Snake-Game
+# Classic-Caterpillar-Game
