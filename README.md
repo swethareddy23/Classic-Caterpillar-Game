@@ -22,5 +22,5 @@ define functions for placing the leaf.
 define the functions for displaying game over , score and for starting the game.
 
 ### Defining moves
-Define the functions for caterpillar to move up, down, right and left></br>
+Define the functions for caterpillar to move up, down, right and left</br>
 use if-elif conditions for the functions to execute the correct logic.</br> 
